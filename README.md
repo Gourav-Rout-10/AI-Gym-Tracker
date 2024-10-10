@@ -11,13 +11,13 @@ Computer Vision: Integrates computer vision techniques to process and analyze vi
 Python: The primary programming language used for model implementation and data processing.
 
 Usage
-1. Capture Video: Record your workout session using a came![Pose-Detection-Athletics-Image](https://github.com/user-attachments/assets/1d322cf8-a56a-44b6-b23c-50749643ab58)
-ra or smartphone.
+1. Capture Video: Record your workout session using a camera or smartphone.
 2. Load Video: Load the video into the AI Gym Tracker application.
 3. Analyze: The application will process the video, track your poses, and provide feedback on your performance.
 4. Review: Review the feedback and performance metrics to improve your technique and track your progress over time.
 
-![Uploading Pose-Detection-Athletics-Image.png…]()
+
+![Pose-Detection-Athletics-Image](https://github.com/user-attachments/assets/a0ba23f9-9818-4861-8a38-e9517c0da20d)
 
 Contributing:-
 
