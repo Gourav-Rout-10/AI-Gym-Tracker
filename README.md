@@ -16,6 +16,8 @@ Usage
 3. Analyze: The application will process the video, track your poses, and provide feedback on your performance.
 4. Review: Review the feedback and performance metrics to improve your technique and track your progress over time.
 
+![Project Demo]("C:\Users\goura\OneDrive\Desktop\Pose-Detection-Athletics-Image.png"
+
 Contributing:-
 
 We welcome contributions from the community! If you'd like to contribute to this project, please follow these steps:
