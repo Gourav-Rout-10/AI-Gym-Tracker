@@ -18,10 +18,6 @@ Usage
 
 
 
-![Pose-Detection-Athletics-Image](https://github.com/user-attachments/assets/c6d46fb3-21d7-4794-8ecc-357150b0403a)
-
-
-
 Contributing:-
 
 We welcome contributions from the community! If you'd like to contribute to this project, please follow these steps:
