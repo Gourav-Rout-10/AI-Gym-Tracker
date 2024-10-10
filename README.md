@@ -17,7 +17,8 @@ Usage
 4. Review: Review the feedback and performance metrics to improve your technique and track your progress over time.
 
 
-![Uploading Pose-Detection-Athletics-Image.png…]()
+
+![Pose-Detection-Athletics-Image](https://github.com/user-attachments/assets/c6d46fb3-21d7-4794-8ecc-357150b0403a)
 
 
 
